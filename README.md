@@ -14,7 +14,7 @@ Rodrigo Nigri Griner</a></h1>
 
 - 📫 How to reach me **rodrigongriner@gmail.com**
 
-**My skills:**
+
 [![My Skills](https://skillicons.dev/icons?i=py,react,js,html,css,c,django,docker,eclipse,fastapi,git,java,linux,mysql,nodejs)](https://skillicons.dev)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
