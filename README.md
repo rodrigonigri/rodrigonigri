@@ -8,6 +8,8 @@ Rodrigo Nigri Griner</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+- 📄 <a href="https://drive.google.com/file/d/1AJp_tCKgZpFcMM9Pzc45edVCEMhrJk8T/view?usp=sharing" target="blank">CV RODRIGO NIGRI GRINER</a> 
+
 - 🔭 Always working in learning new languages
 
 - 📫 How to reach me **rodrigongriner@gmail.com**
