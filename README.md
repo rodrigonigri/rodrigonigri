@@ -10,7 +10,7 @@ Rodrigo Nigri Griner</a></h1>
 
 - 📄 <a href="https://drive.google.com/file/d/1AJp_tCKgZpFcMM9Pzc45edVCEMhrJk8T/view?usp=sharing" target="blank">CV RODRIGO NIGRI GRINER</a> 
 
-- 🔭 Always working in learning new languages
+- 🔭 Always working in learning new technologies
 
 - 📫 How to reach me **rodrigongriner@gmail.com**
 
