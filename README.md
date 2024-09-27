@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/rodrigonigri" target="blank">
+<h1 align="center">Hi, I'm <a href="https://github.com/rodrigonigri" target="blank">
 Rodrigo Nigri Griner</a></h1>
 <h3 align="center">An engineering student from São Paulo Brazil</h3>
 
